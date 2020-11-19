@@ -1,0 +1,7 @@
+C:\Users\Anatoliy\source\repos\TxtFileHomeWork\TxtFileHomeWork\bin\Debug\TxtFileHomeWork.exe.config
+C:\Users\Anatoliy\source\repos\TxtFileHomeWork\TxtFileHomeWork\bin\Debug\TxtFileHomeWork.exe
+C:\Users\Anatoliy\source\repos\TxtFileHomeWork\TxtFileHomeWork\bin\Debug\TxtFileHomeWork.pdb
+C:\Users\Anatoliy\source\repos\TxtFileHomeWork\TxtFileHomeWork\obj\Debug\TxtFileHomeWork.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\TxtFileHomeWork\TxtFileHomeWork\obj\Debug\TxtFileHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\source\repos\TxtFileHomeWork\TxtFileHomeWork\obj\Debug\TxtFileHomeWork.exe
+C:\Users\Anatoliy\source\repos\TxtFileHomeWork\TxtFileHomeWork\obj\Debug\TxtFileHomeWork.pdb
